@@ -1,4 +1,4 @@
-Mini E-Commerce Project (Django)
+Ecommerce-mini- Project (Django)
 
 A simple e-commerce web application built using Django, featuring product management, cart system, checkout, order summary, and an admin dashboard.
 This project demonstrates full-stack skills, including authentication, database modeling, CRUD operations, and user/admin workflows.
@@ -86,7 +86,7 @@ project_root/
 
  Installation & Setup
 1. Clone the repository
-git clone https://github.com/yourusername/ecommerce-mini.git
+git clone https://github.com/nandinir9992/ecommerce-mini-project.git
 cd ecommerce-mini
 
 2️. Create a virtual environment
