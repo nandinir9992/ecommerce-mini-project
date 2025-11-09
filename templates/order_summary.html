@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Order Summary</h2>
+<p><strong>Order ID:</strong> {{ order.id }}</p>
+<p><strong>Total:</strong> ₹{{ order.total }}</p>
+<p><strong>Status:</strong> {{ order.status }}</p>
+<p>Thank you for your order!</p>
+<a href="{% url 'product_list' %}" class="btn btn-success">Back to Products</a>
+
+{% endblock %}
