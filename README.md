@@ -45,45 +45,6 @@ Tech Stack
 Auth: Django built-in authentication
 APIs: Not required (pure Django templates project)
 
-project_root/
-│── db.sqlite3
-│── manage.py
-│
-├── core/
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
-│ ├── asgi.py
-│
-├── shop/
-│ ├── admin.py
-│ ├── models.py
-│ ├── urls.py
-│ ├── views.py
-│ ├── tests.py
-│ ├── apps.py
-│ └── migrations/
-│ ├── 0001_initial.py
-│ ├── 0002_order_shippingaddress.py
-│ ├── 0003_orderitem.py
-│ └── init.py
-│
-├── products/
-│ ├── phone.jpg
-│ ├── laptop.jpg
-│ ├── camera.jpg
-│ ├── wallet.jpg
-│ └── Screenshot.png
-│
-└── templates/
-├── base.html
-├── products.html
-├── cart.html
-├── checkout.html
-├── order_summary.html
-├── signup.html
-├── login.html
-
  Installation & Setup
 1. Clone the repository
 git clone https://github.com/nandinir9992/ecommerce-mini-project.git
