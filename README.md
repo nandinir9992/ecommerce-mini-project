@@ -5,49 +5,84 @@ This project demonstrates full-stack skills, including authentication, database 
 
 Live Demo
      User Website: https://nandinir9992.pythonanywhere.com/
+    
      Admin Dashboard: https://nandinir9992.pythonanywhere.com/admin/
 
  Features
   User Features
-  User Signup / Login / Logout
+  
+  User Signup
+  
+  Login 
+  
+  Logout
+  
   View products
+  
   Add products to cart
+  
   Increase/decrease quantity
+  
   Remove items from cart
+  
   Checkout with shipping address
+  
   View order summary
 
+
 Cart & Checkout
+  
   Add multiple items
+  
   Cart total auto calculated
+  
   Checkout form
+  
   Order saved with order items
+  
   Shipping address stored
 
+
 Order Management
+
   Order details (ID, user, total, status, created date)
+  
   Order Items stored separately
+  
   Shipping address linked to order
 
+
 Admin Features
+ 
   Custom Admin Dashboard:
+  
   Total Products
+  
   Total Orders
+  
   Pending Orders
+  
   Total Revenue
 
+
 Manage products (CRUD)
+
 Manage orders (view + update)
+
 View order items (inline display)
+
 View shipping addresses
 
+
 Tech Stack
+
   Backend: Django
+  
   Database: SQLite
+  
   Frontend: HTML
 
-Auth: Django built-in authentication
-APIs: Not required (pure Django templates project)
+
 
  Installation & Setup
 1. Clone the repository
