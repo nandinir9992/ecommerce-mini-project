@@ -87,7 +87,6 @@ Tech Stack
  Installation & Setup
 1. Clone the repository
 git clone https://github.com/nandinir9992/ecommerce-mini-project.git
-cd ecommerce-mini
 
 2️. Create a virtual environment
 python -m venv .venv
