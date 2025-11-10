@@ -3,6 +3,10 @@ Ecommerce-mini- Project (Django)
 A simple e-commerce web application built using Django, featuring product management, cart system, checkout, order summary, and an admin dashboard.
 This project demonstrates full-stack skills, including authentication, database modeling, CRUD operations, and user/admin workflows.
 
+Live Demo
+     User Website: https://nandinir9992.pythonanywhere.com/
+     Admin Dashboard: https://nandinir9992.pythonanywhere.com/admin/
+
  Features
   User Features
   User Signup / Login / Logout
